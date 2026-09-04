@@ -1,0 +1,8 @@
+../SubGHz_Phy/App/subghz_phy_app.c:123:6:SubghzApp_Init	1
+../SubGHz_Phy/App/subghz_phy_app.c:166:13:OnTxDone	1
+../SubGHz_Phy/App/subghz_phy_app.c:174:13:OnRxDone	1
+../SubGHz_Phy/App/subghz_phy_app.c:186:13:OnTxTimeout	1
+../SubGHz_Phy/App/subghz_phy_app.c:194:13:OnRxTimeout	1
+../SubGHz_Phy/App/subghz_phy_app.c:202:13:OnRxError	1
+../SubGHz_Phy/App/subghz_phy_app.c:211:13:SendPing	1
+../SubGHz_Phy/App/subghz_phy_app.c:218:13:SubghzApp_Process	9
